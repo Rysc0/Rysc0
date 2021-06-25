@@ -3,7 +3,8 @@
 ## About
 - I am a third year student at the Faculty of Organization and Informatics in Varaždin 👨‍🎓
 - I'm currently learning C# 
-- Fun facts: I've been around computers since I was 6 and I love everything that has to do with computers, also big fan of The Witcher
+- I'm currently working on 3D survival game in Unity
+- Fun facts: I've been around computers since I was 6 and I love everything that has to do with computers, also big fan of The Witcher saga
 <br />
 
 ## Hobbies
